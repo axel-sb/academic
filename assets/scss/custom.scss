@@ -1,0 +1,22 @@
+.hero-title {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold !important;
+  font-size: 4rem !important;
+  margin-top: 50px;
+  line-height: 2;
+}
+
+.hero-lead {
+  max-width: 768px;
+  font-size: 1rem !important;
+  line-height: 1.1;
+}
+
+.wg-hero.dark .btn {
+  color: #818182;
+  font-family: Impact;
+}
+
+.wg-hero .btn-lg, .wg-hero .btn-group-lg>.btn {
+  font-size: 1rem;
+}
