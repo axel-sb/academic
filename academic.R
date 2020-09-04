@@ -6,3 +6,5 @@
 # Use the “New Post” addin to create a new post or page, then start writing the content.
 
 # Use the “Update Metadata” addin to modify the YAML metadata if necessary.
+
+blogdown:::serve_site()
