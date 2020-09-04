@@ -13,7 +13,8 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "my_theme"
+#   theme = "my_theme"
+theme = "Minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -75,7 +76,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/axel-sb/academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -88,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "kollektiv@kommune62.de"
 phone = "0211 123456"
 
 # Address
@@ -97,10 +98,10 @@ address = {street = "Tußmannstr. 62", city = "Düsseldorf", region = "", postco
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.24", longitude = "6.79"}
+coordinates = {latitude = "51.240596", longitude = "6.792695"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building and take the stairs to Office 26 on Floor 4"
+directions = "Enter Building and take the stairs to our office on floor 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -116,7 +117,7 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:axel_sb"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+   {icon = "telegram", icon_pack = "fab", name = "Telegram Axel @ Kommune 62", link = "https://t.me/axel_sb"},
   ]
 
 ############################
@@ -140,7 +141,7 @@ date_format = "2 January, 2006"
 time_format = "15:04"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "de-de"
+address_format = "de"
 
 ############################
 ## Advanced

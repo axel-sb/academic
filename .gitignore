@@ -1,4 +1,7 @@
-public*
+public/
 .DS_Store
-blogdown
 .Rproj.user
+*.R
+academic.Rproj
+.RData
+.vscode
