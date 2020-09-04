@@ -1,2 +1,2 @@
 # academic
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c221f36-ebfb-4821-9257-5cea252ab126/deploy-status)](https://app.netlify.com/sites/quirky-haibt-3fae80/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd696058-78e1-4ebc-8fe7-ad31c7b8098c/deploy-status)](https://app.netlify.com/sites/kommune62/deploys)
