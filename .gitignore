@@ -3,5 +3,6 @@ public/
 .Rproj.user
 *.R
 academic.Rproj
+.Rhistory
 .RData
 .vscode
